@@ -1,6 +1,7 @@
 # vibu-coding-challenge
 
 There are two challenges one for [frontend](frontend/) and one for [backend](backend/)
+**PICK ONE** challenge
 
 Please make your own repository on GitHub/GitLab and send me the link to that.
 
